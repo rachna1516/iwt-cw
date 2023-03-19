@@ -1,0 +1,73 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+  <head>
+    <meta charset="utf-8">
+    <title>Grand Slam Winners</title>
+    <meta name="description" content="Grand Slam search application">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+
+  <body>
+    <script src="js/vendor/modernizr-3.11.2.min.js"></script>
+    <script src="js/jquery-3.6.3.min.js"></script>
+    <script src="js/iwt-cw.js"></script>
+
+  <section class="layout">
+    <div class="header">
+      <img class="header-img" src="img/grand-slam-tennis-tournament.jpg">
+      <h2>Tennis Tournament - Grand Slam Application</h2>
+      </div>
+    </div>
+
+    <div class="body">
+      <p><b>Tournament Search results for: </b></p>
+      <form id="search-form" action="" method="get">
+        <label for="year"> Year :     </label>
+        <input type="text" id="year" name="year">
+        <select id="year-op" name="year-op">
+          <option value="=" selected="selected">Equals</option>
+          <option value=">">Greater Than</option>
+          <option value="<">Less than</option>
+        </select><br>
+
+        <label for="winner">Winner:</label>
+        <input type="text" id="winner" name="winner" ><br>
+
+        <label for="runner-up">Runner-up:</label>
+        <input type="text" id="runner-up" name="runner-up"><br>
+        <label for="tournament">Tournament:</label>
+        <select id="tournament" name="tournament">
+          <option value="any" selected="selected">Any</option>
+          <option value="Australian Open">Australian Open</option>
+          <option value="French Open">French Open</option>
+          <option value="U.S. Open">U.S. Open</option>
+          <option value="Wimbledon">Wimbledon</option>
+        </select><br>
+        <label for="file">File - Men's/Women's:</label>
+        <select id="file" name="file" >
+          <option value="any" selected="selected">Any</option>
+          <option value="mens-grand-slam-winners.json">Men's</option>
+          <option value="womens-grand-slam-winners.json">Women's</option>
+        </select><br>
+        <input id="send-query" type="submit" value="Search">
+        <input id="clear-input" type="reset" value="Clear Form">
+      </form>
+
+       <div id="output" class="hidden">
+        <button id="clear-output" onclick="clearResult('output')" class="button">Clear Result</button>
+
+        <table id="result-table" class="hidden">
+       </table>
+        <div id="error-message" class="error hidden">
+        </div>
+      </div>
+    </div>
+
+ 
+
+  </section>
+   
+  </body>
+</html>

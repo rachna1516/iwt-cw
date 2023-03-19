@@ -1,0 +1,2852 @@
+[
+   {
+      "year": 2022,
+      "tournament": "U.S. Open",
+      "winner": "Iga Swiatek",
+      "runner-up": "Ons Jabeur"
+   },
+   {
+      "year": 2022,
+      "tournament": "Wimbledon",
+      "winner": "Elena Rybakina",
+      "runner-up": "Ons Jabeur"
+   },
+   {
+      "year": 2022,
+      "tournament": "French Open",
+      "winner": "Iga Swiatek",
+      "runner-up": "Coco Gauff"
+   },
+   {
+      "year": 2022,
+      "tournament": "Australian Open",
+      "winner": "Ashleigh Barty",
+      "runner-up": "Danielle Collins"
+   },
+   {
+      "year": 2021,
+      "tournament": "U.S. Open",
+      "winner": "Emma Raducanu",
+      "runner-up": "Leylah Fernandez"
+   },
+   {
+      "year": 2021,
+      "tournament": "Wimbledon",
+      "winner": "Ashleigh Barty",
+      "runner-up": "Karolina Pliskova"
+   },
+   {
+      "year": 2021,
+      "tournament": "French Open",
+      "winner": "Barbora Krejcikova",
+      "runner-up": "Anastasia Pavlyuchenkova"
+   },
+   {
+      "year": 2021,
+      "tournament": "Australian Open",
+      "winner": "Naomi Osaka",
+      "runner-up": "Jennifer Brady"
+   },
+   {
+      "year": 2020,
+      "tournament": "U.S. Open",
+      "winner": "Naomi Osaka",
+      "runner-up": "Victoria Azarenka"
+   },
+   {
+      "year": 2020,
+      "tournament": "French Open",
+      "winner": "Iga Swiatek",
+      "runner-up": "Sofia Kenin"
+   },
+   {
+      "year": 2020,
+      "tournament": "Australian Open",
+      "winner": "Sofia Kenin",
+      "runner-up": "Garbine Muguruza"
+   },
+   {
+      "year": 2019,
+      "tournament": "U.S. Open",
+      "winner": "Bianca Andreescu",
+      "runner-up": "Serena Williams"
+   },
+   {
+      "year": 2019,
+      "tournament": "Wimbledon",
+      "winner": "Simona Halep",
+      "runner-up": "Serena Williams"
+   },
+   {
+      "year": 2019,
+      "tournament": "French Open",
+      "winner": "Ashleigh Barty",
+      "runner-up": "Marketa Vondrousova"
+   },
+   {
+      "year": 2019,
+      "tournament": "Australian Open",
+      "winner": "Naomi Osaka",
+      "runner-up": "Petra Kvitova"
+   },
+   {
+      "year": 2018,
+      "tournament": "U.S. Open",
+      "winner": "Naomi Osaka",
+      "runner-up": "Serena Williams"
+   },
+   {
+      "year": 2018,
+      "tournament": "Wimbledon",
+      "winner": "Angelique Kerber",
+      "runner-up": "Serena Williams"
+   },
+   {
+      "year": 2018,
+      "tournament": "French Open",
+      "winner": "Simona Halep",
+      "runner-up": "Sloane Stephens"
+   },
+   {
+      "year": 2018,
+      "tournament": "Australian Open",
+      "winner": "Caroline Wozniacki",
+      "runner-up": "Simona Halep"
+   },
+   {
+      "year": 2017,
+      "tournament": "U.S. Open",
+      "winner": "Sloane Stephens",
+      "runner-up": "Madison Keys"
+   },
+   {
+      "year": 2017,
+      "tournament": "Wimbledon",
+      "winner": "Garbine Muguruza",
+      "runner-up": "Venus Williams"
+   },
+   {
+      "year": 2017,
+      "tournament": "French Open",
+      "winner": "Jelena Ostapenko",
+      "runner-up": "Simona Halep"
+   },
+   {
+      "year": 2017,
+      "tournament": "Australian Open",
+      "winner": "Serena Williams",
+      "runner-up": "Venus Williams"
+   },
+   {
+      "year": 2016,
+      "tournament": "U.S. Open",
+      "winner": "Angelique Kerber",
+      "runner-up": "Karolina Pliskova"
+   },
+   {
+      "year": 2016,
+      "tournament": "Wimbledon",
+      "winner": "Serena Williams",
+      "runner-up": "Angelique Kerber"
+   },
+   {
+      "year": 2016,
+      "tournament": "French Open",
+      "winner": "Garbine Muguruza",
+      "runner-up": "Serena Williams"
+   },
+   {
+      "year": 2016,
+      "tournament": "Australian Open",
+      "winner": "Angelique Kerber",
+      "runner-up": "Serena Williams"
+   },
+   {
+      "year": 2015,
+      "tournament": "U.S. Open",
+      "winner": "Flavia Pennetta",
+      "runner-up": "Roberta Vinci"
+   },
+   {
+      "year": 2015,
+      "tournament": "Wimbledon",
+      "winner": "Serena Williams",
+      "runner-up": "Garbine Muguruza"
+   },
+   {
+      "year": 2015,
+      "tournament": "French Open",
+      "winner": "Serena Williams",
+      "runner-up": "Lucie Safarova"
+   },
+   {
+      "year": 2015,
+      "tournament": "Australian Open",
+      "winner": "Serena Williams",
+      "runner-up": "Maria Sharapova"
+   },
+   {
+      "year": 2014,
+      "tournament": "U.S. Open",
+      "winner": "Serena Williams",
+      "runner-up": "Caroline Wozniacki"
+   },
+   {
+      "year": 2014,
+      "tournament": "Wimbledon",
+      "winner": "Petra Kvitova",
+      "runner-up": "Eugenie Bouchard"
+   },
+   {
+      "year": 2014,
+      "tournament": "French Open",
+      "winner": "Maria Sharapova",
+      "runner-up": "Simona Halep"
+   },
+   {
+      "year": 2014,
+      "tournament": "Australian Open",
+      "winner": "Li Na",
+      "runner-up": "Dominika Cibulkova"
+   },
+   {
+      "year": 2013,
+      "tournament": "U.S. Open",
+      "winner": "Serena Williams",
+      "runner-up": "Victoria Azarenka"
+   },
+   {
+      "year": 2013,
+      "tournament": "Wimbledon",
+      "winner": "Marion Bartoli",
+      "runner-up": "Sabine Lisicki"
+   },
+   {
+      "year": 2013,
+      "tournament": "French Open",
+      "winner": "Serena Williams",
+      "runner-up": "Maria Sharapova"
+   },
+   {
+      "year": 2013,
+      "tournament": "Australian Open",
+      "winner": "Victoria Azarenka",
+      "runner-up": "Li Na"
+   },
+   {
+      "year": 2012,
+      "tournament": "U.S. Open",
+      "winner": "Serena Williams",
+      "runner-up": "Victoria Azarenka"
+   },
+   {
+      "year": 2012,
+      "tournament": "Wimbledon",
+      "winner": "Serena Williams",
+      "runner-up": "Agnieszka Radwanska"
+   },
+   {
+      "year": 2012,
+      "tournament": "French Open",
+      "winner": "Maria Sharapova",
+      "runner-up": "Sara Errani"
+   },
+   {
+      "year": 2012,
+      "tournament": "Australian Open",
+      "winner": "Victoria Azarenka",
+      "runner-up": "Maria Sharapova"
+   },
+   {
+      "year": 2011,
+      "tournament": "U.S. Open",
+      "winner": "Samantha Stosur",
+      "runner-up": "Serena Williams"
+   },
+   {
+      "year": 2011,
+      "tournament": "Wimbledon",
+      "winner": "Petra Kvitova",
+      "runner-up": "Maria Sharapova"
+   },
+   {
+      "year": 2011,
+      "tournament": "French Open",
+      "winner": "Li Na",
+      "runner-up": "Francesca Schiavone"
+   },
+   {
+      "year": 2011,
+      "tournament": "Australian Open",
+      "winner": "Kim Clijsters",
+      "runner-up": "Li Na"
+   },
+   {
+      "year": 2010,
+      "tournament": "U.S. Open",
+      "winner": "Kim Clijsters",
+      "runner-up": "Vera Zvonareva"
+   },
+   {
+      "year": 2010,
+      "tournament": "Wimbledon",
+      "winner": "Serena Williams",
+      "runner-up": "Vera Zvonareva"
+   },
+   {
+      "year": 2010,
+      "tournament": "French Open",
+      "winner": "Francesca Schiavone",
+      "runner-up": "Samantha Stosur"
+   },
+   {
+      "year": 2010,
+      "tournament": "Australian Open",
+      "winner": "Serena Williams",
+      "runner-up": "Justine Henin"
+   },
+   {
+      "year": 2009,
+      "tournament": "U.S. Open",
+      "winner": "Kim Clijsters",
+      "runner-up": "Caroline Wozniacki"
+   },
+   {
+      "year": 2009,
+      "tournament": "Wimbledon",
+      "winner": "Serena Williams",
+      "runner-up": "Venus Williams"
+   },
+   {
+      "year": 2009,
+      "tournament": "French Open",
+      "winner": "Svetlana Kuznetsova",
+      "runner-up": "Dinara Safina"
+   },
+   {
+      "year": 2009,
+      "tournament": "Australian Open",
+      "winner": "Serena Williams",
+      "runner-up": "Dinara Safina"
+   },
+   {
+      "year": 2008,
+      "tournament": "U.S. Open",
+      "winner": "Serena Williams",
+      "runner-up": "Jelena Jankovic"
+   },
+   {
+      "year": 2008,
+      "tournament": "Wimbledon",
+      "winner": "Venus Williams",
+      "runner-up": "Serena Williams"
+   },
+   {
+      "year": 2008,
+      "tournament": "French Open",
+      "winner": "Ana Ivanovic",
+      "runner-up": "Dinara Safina"
+   },
+   {
+      "year": 2008,
+      "tournament": "Australian Open",
+      "winner": "Maria Sharapova",
+      "runner-up": "Ana Ivanovic"
+   },
+   {
+      "year": 2007,
+      "tournament": "U.S. Open",
+      "winner": "Justine Henin",
+      "runner-up": "Svetlana Kuznetsova"
+   },
+   {
+      "year": 2007,
+      "tournament": "Wimbledon",
+      "winner": "Venus Williams",
+      "runner-up": "Marion Bartoli"
+   },
+   {
+      "year": 2007,
+      "tournament": "French Open",
+      "winner": "Justine Henin",
+      "runner-up": "Ana Ivanovic"
+   },
+   {
+      "year": 2007,
+      "tournament": "Australian Open",
+      "winner": "Serena Williams",
+      "runner-up": "Maria Sharapova"
+   },
+   {
+      "year": 2006,
+      "tournament": "U.S. Open",
+      "winner": "Maria Sharapova",
+      "runner-up": "Justine Henin-Hardenne"
+   },
+   {
+      "year": 2006,
+      "tournament": "Wimbledon",
+      "winner": "Amelie Mauresmo",
+      "runner-up": "Justine Henin-Hardenne"
+   },
+   {
+      "year": 2006,
+      "tournament": "French Open",
+      "winner": "Justine Henin-Hardenne",
+      "runner-up": "Svetlana Kuznetsova"
+   },
+   {
+      "year": 2006,
+      "tournament": "Australian Open",
+      "winner": "Amelie Mauresmo",
+      "runner-up": "Justine Henin-Hardenne"
+   },
+   {
+      "year": 2005,
+      "tournament": "U.S. Open",
+      "winner": "Kim Clijsters",
+      "runner-up": "Mary Pierce"
+   },
+   {
+      "year": 2005,
+      "tournament": "Wimbledon",
+      "winner": "Venus Williams",
+      "runner-up": "Lindsay Davenport"
+   },
+   {
+      "year": 2005,
+      "tournament": "French Open",
+      "winner": "Justine Henin-Hardenne",
+      "runner-up": "Mary Pierce"
+   },
+   {
+      "year": 2005,
+      "tournament": "Australian Open",
+      "winner": "Serena Williams",
+      "runner-up": "Lindsay Davenport"
+   },
+   {
+      "year": 2004,
+      "tournament": "U.S. Open",
+      "winner": "Svetlana Kuznetsova",
+      "runner-up": "Elena Dementieva"
+   },
+   {
+      "year": 2004,
+      "tournament": "Wimbledon",
+      "winner": "Maria Sharapova",
+      "runner-up": "Serena Williams"
+   },
+   {
+      "year": 2004,
+      "tournament": "French Open",
+      "winner": "Anastasia Myskina",
+      "runner-up": "Elena Dementieva"
+   },
+   {
+      "year": 2004,
+      "tournament": "Australian Open",
+      "winner": "Justine Henin-Hardenne",
+      "runner-up": "Kim Clijsters"
+   },
+   {
+      "year": 2003,
+      "tournament": "U.S. Open",
+      "winner": "Justine Henin-Hardenne",
+      "runner-up": "Kim Clijsters"
+   },
+   {
+      "year": 2003,
+      "tournament": "Wimbledon",
+      "winner": "Serena Williams",
+      "runner-up": "Venus Williams"
+   },
+   {
+      "year": 2003,
+      "tournament": "French Open",
+      "winner": "Justine Henin-Hardenne",
+      "runner-up": "Kim Clijsters"
+   },
+   {
+      "year": 2003,
+      "tournament": "Australian Open",
+      "winner": "Serena Williams",
+      "runner-up": "Venus Williams"
+   },
+   {
+      "year": 2002,
+      "tournament": "U.S. Open",
+      "winner": "Serena Williams",
+      "runner-up": "Venus Williams"
+   },
+   {
+      "year": 2002,
+      "tournament": "Wimbledon",
+      "winner": "Serena Williams",
+      "runner-up": "Venus Williams"
+   },
+   {
+      "year": 2002,
+      "tournament": "French Open",
+      "winner": "Serena Williams",
+      "runner-up": "Venus Williams"
+   },
+   {
+      "year": 2002,
+      "tournament": "Australian Open",
+      "winner": "Jennifer Capriati",
+      "runner-up": "Martina Hingis"
+   },
+   {
+      "year": 2001,
+      "tournament": "U.S. Open",
+      "winner": "Venus Williams",
+      "runner-up": "Serena Williams"
+   },
+   {
+      "year": 2001,
+      "tournament": "Wimbledon",
+      "winner": "Venus Williams",
+      "runner-up": "Justine Henin"
+   },
+   {
+      "year": 2001,
+      "tournament": "French Open",
+      "winner": "Jennifer Capriati",
+      "runner-up": "Kim Clijsters"
+   },
+   {
+      "year": 2001,
+      "tournament": "Australian Open",
+      "winner": "Jennifer Capriati",
+      "runner-up": "Martina Hingis"
+   },
+   {
+      "year": 2000,
+      "tournament": "U.S. Open",
+      "winner": "Venus Williams",
+      "runner-up": "Lindsay Davenport"
+   },
+   {
+      "year": 2000,
+      "tournament": "Wimbledon",
+      "winner": "Venus Williams",
+      "runner-up": "Lindsay Davenport"
+   },
+   {
+      "year": 2000,
+      "tournament": "French Open",
+      "winner": "Mary Pierce",
+      "runner-up": "Conchita Martinez"
+   },
+   {
+      "year": 2000,
+      "tournament": "Australian Open",
+      "winner": "Lindsay Davenport",
+      "runner-up": "Martina Hingis"
+   },
+   {
+      "year": 1999,
+      "tournament": "U.S. Open",
+      "winner": "Serena Williams",
+      "runner-up": "Martina Hingis"
+   },
+   {
+      "year": 1999,
+      "tournament": "Wimbledon",
+      "winner": "Lindsay Davenport",
+      "runner-up": "Steffi Graf"
+   },
+   {
+      "year": 1999,
+      "tournament": "French Open",
+      "winner": "Steffi Graf",
+      "runner-up": "Martina Hingis"
+   },
+   {
+      "year": 1999,
+      "tournament": "Australian Open",
+      "winner": "Martina Hingis",
+      "runner-up": "Amelie Mauresmo"
+   },
+   {
+      "year": 1998,
+      "tournament": "U.S. Open",
+      "winner": "Lindsay Davenport",
+      "runner-up": "Martina Hingis"
+   },
+   {
+      "year": 1998,
+      "tournament": "Wimbledon",
+      "winner": "Jana Novotna",
+      "runner-up": "Nathalie Tauziat"
+   },
+   {
+      "year": 1998,
+      "tournament": "French Open",
+      "winner": "Aranxta Sanchez-Vicario",
+      "runner-up": "Monica Seles"
+   },
+   {
+      "year": 1998,
+      "tournament": "Australian Open",
+      "winner": "Martina Hingis",
+      "runner-up": "Conchita Martinez"
+   },
+   {
+      "year": 1997,
+      "tournament": "U.S. Open",
+      "winner": "Martina Hingis",
+      "runner-up": "Venus Williams"
+   },
+   {
+      "year": 1997,
+      "tournament": "Wimbledon",
+      "winner": "Martina Hingis",
+      "runner-up": "Jana Novotna"
+   },
+   {
+      "year": 1997,
+      "tournament": "French Open",
+      "winner": "Iva Majoli",
+      "runner-up": "Martina Hingis"
+   },
+   {
+      "year": 1997,
+      "tournament": "Australian Open",
+      "winner": "Martina Hingis",
+      "runner-up": "Mary Pierce"
+   },
+   {
+      "year": 1996,
+      "tournament": "U.S. Open",
+      "winner": "Steffi Graf",
+      "runner-up": "Monica Seles"
+   },
+   {
+      "year": 1996,
+      "tournament": "Wimbledon",
+      "winner": "Steffi Graf",
+      "runner-up": "Arantxa Sanchez-Vicario"
+   },
+   {
+      "year": 1996,
+      "tournament": "French Open",
+      "winner": "Steffi Graf",
+      "runner-up": "Arantxa Sanchez-Vicario"
+   },
+   {
+      "year": 1996,
+      "tournament": "Australian Open",
+      "winner": "Monica Seles",
+      "runner-up": "Anke Huber"
+   },
+   {
+      "year": 1995,
+      "tournament": "U.S. Open",
+      "winner": "Steffi Graf",
+      "runner-up": "Monica Seles"
+   },
+   {
+      "year": 1995,
+      "tournament": "Wimbledon",
+      "winner": "Steffi Graf",
+      "runner-up": "Arantxa Sanchez-Vicario"
+   },
+   {
+      "year": 1995,
+      "tournament": "French Open",
+      "winner": "Steffi Graf",
+      "runner-up": "Arantxa Sanchez-Vicario"
+   },
+   {
+      "year": 1995,
+      "tournament": "Australian Open",
+      "winner": "Mary Pierce",
+      "runner-up": "Arantxa Sanchez-Vicario"
+   },
+   {
+      "year": 1994,
+      "tournament": "U.S. Open",
+      "winner": "Aranxta Sanchez-Vicario",
+      "runner-up": "Steffi Graf"
+   },
+   {
+      "year": 1994,
+      "tournament": "Wimbledon",
+      "winner": "Conchita Martinez",
+      "runner-up": "Martina Navratilova"
+   },
+   {
+      "year": 1994,
+      "tournament": "French Open",
+      "winner": "Aranxta Sanchez-Vicario",
+      "runner-up": "Mary Pierce"
+   },
+   {
+      "year": 1994,
+      "tournament": "Australian Open",
+      "winner": "Steffi Graf",
+      "runner-up": "Arantxa Sanchez-Vicario"
+   },
+   {
+      "year": 1993,
+      "tournament": "U.S. Open",
+      "winner": "Steffi Graf",
+      "runner-up": "Helena Sukova"
+   },
+   {
+      "year": 1993,
+      "tournament": "Wimbledon",
+      "winner": "Steffi Graf",
+      "runner-up": "Jana Novotna"
+   },
+   {
+      "year": 1993,
+      "tournament": "French Open",
+      "winner": "Steffi Graf",
+      "runner-up": "Mary Jo Fernandez"
+   },
+   {
+      "year": 1993,
+      "tournament": "Australian Open",
+      "winner": "Monica Seles",
+      "runner-up": "Steffi Graf"
+   },
+   {
+      "year": 1992,
+      "tournament": "U.S. Open",
+      "winner": "Monica Seles",
+      "runner-up": "Arantxa Sanchez-Vicario"
+   },
+   {
+      "year": 1992,
+      "tournament": "Wimbledon",
+      "winner": "Steffi Graf",
+      "runner-up": "Monica Seles"
+   },
+   {
+      "year": 1992,
+      "tournament": "French Open",
+      "winner": "Monica Seles",
+      "runner-up": "Steffi Graf"
+   },
+   {
+      "year": 1992,
+      "tournament": "Australian Open",
+      "winner": "Monica Seles",
+      "runner-up": "Mary Joe Fernandez"
+   },
+   {
+      "year": 1991,
+      "tournament": "U.S. Open",
+      "winner": "Monica Seles",
+      "runner-up": "Martina Navratilova"
+   },
+   {
+      "year": 1991,
+      "tournament": "Wimbledon",
+      "winner": "Steffi Graf",
+      "runner-up": "Gabriela Sabatini"
+   },
+   {
+      "year": 1991,
+      "tournament": "French Open",
+      "winner": "Monica Seles",
+      "runner-up": "Arantxa Sanchez-Vicario"
+   },
+   {
+      "year": 1991,
+      "tournament": "Australian Open",
+      "winner": "Monica Seles",
+      "runner-up": "Jana Novotna"
+   },
+   {
+      "year": 1990,
+      "tournament": "U.S. Open",
+      "winner": "Gabriela Sabatini",
+      "runner-up": "Steffi Graf"
+   },
+   {
+      "year": 1990,
+      "tournament": "Wimbledon",
+      "winner": "Martina Navratilova",
+      "runner-up": "Zena Garrison"
+   },
+   {
+      "year": 1990,
+      "tournament": "French Open",
+      "winner": "Monica Seles",
+      "runner-up": "Steffi Graf"
+   },
+   {
+      "year": 1990,
+      "tournament": "Australian Open",
+      "winner": "Steffi Graf",
+      "runner-up": "Mary Joe Fernandez"
+   },
+   {
+      "year": 1989,
+      "tournament": "U.S. Open",
+      "winner": "Steffi Graf",
+      "runner-up": "Martina Navratilova"
+   },
+   {
+      "year": 1989,
+      "tournament": "Wimbledon",
+      "winner": "Steffi Graf",
+      "runner-up": "Martina Navratilova"
+   },
+   {
+      "year": 1989,
+      "tournament": "French Open",
+      "winner": "Aranxta Sanchez-Vicario",
+      "runner-up": "Steffi Graf"
+   },
+   {
+      "year": 1989,
+      "tournament": "Australian Open",
+      "winner": "Steffi Graf",
+      "runner-up": "Helena Sukova"
+   },
+   {
+      "year": 1988,
+      "tournament": "U.S. Open",
+      "winner": "Steffi Graf",
+      "runner-up": "Gabriela Sabatini"
+   },
+   {
+      "year": 1988,
+      "tournament": "Wimbledon",
+      "winner": "Steffi Graf",
+      "runner-up": "Martina Navratilova"
+   },
+   {
+      "year": 1988,
+      "tournament": "French Open",
+      "winner": "Steffi Graf",
+      "runner-up": "Natasha Zvereva"
+   },
+   {
+      "year": 1988,
+      "tournament": "Australian Open",
+      "winner": "Steffi Graf",
+      "runner-up": "Chris Evert"
+   },
+   {
+      "year": 1987,
+      "tournament": "U.S. Open",
+      "winner": "Martina Navratilova",
+      "runner-up": "Steffi Graf"
+   },
+   {
+      "year": 1987,
+      "tournament": "Wimbledon",
+      "winner": "Martina Navratilova",
+      "runner-up": "Steffi Graf"
+   },
+   {
+      "year": 1987,
+      "tournament": "French Open",
+      "winner": "Steffi Graf",
+      "runner-up": "Martina Navratilova"
+   },
+   {
+      "year": 1987,
+      "tournament": "Australian Open",
+      "winner": "Hana Mandlikova",
+      "runner-up": "Martina Navratilova"
+   },
+   {
+      "year": 1986,
+      "tournament": "U.S. Open",
+      "winner": "Martina Navratilova",
+      "runner-up": "Helena Sukova"
+   },
+   {
+      "year": 1986,
+      "tournament": "Wimbledon",
+      "winner": "Martina Navratilova",
+      "runner-up": "Hana Mandlikova"
+   },
+   {
+      "year": 1986,
+      "tournament": "French Open",
+      "winner": "Chris Evert-Lloyd",
+      "runner-up": "Martina Navratilova"
+   },
+   {
+      "year": 1985,
+      "tournament": "Australian Open",
+      "winner": "Martina Navratilova",
+      "runner-up": "Chris Evert"
+   },
+   {
+      "year": 1985,
+      "tournament": "U.S. Open",
+      "winner": "Hana Mandlikova",
+      "runner-up": "Martina Navratilova"
+   },
+   {
+      "year": 1985,
+      "tournament": "Wimbledon",
+      "winner": "Martina Navratilova",
+      "runner-up": "Chris Evert-Lloyd"
+   },
+   {
+      "year": 1985,
+      "tournament": "French Open",
+      "winner": "Chris Evert-Lloyd",
+      "runner-up": "Martina Navratilova"
+   },
+   {
+      "year": 1984,
+      "tournament": "Australian Open",
+      "winner": "Chris Evert-Lloyd",
+      "runner-up": "Helena Sukova"
+   },
+   {
+      "year": 1984,
+      "tournament": "U.S. Open",
+      "winner": "Martina Navratilova",
+      "runner-up": "Chris Evert-Lloyd"
+   },
+   {
+      "year": 1984,
+      "tournament": "Wimbledon",
+      "winner": "Martina Navratilova",
+      "runner-up": "Chris Evert-Lloyd"
+   },
+   {
+      "year": 1984,
+      "tournament": "French Open",
+      "winner": "Martina Navratilova",
+      "runner-up": "Chris Evert-Lloyd"
+   },
+   {
+      "year": 1983,
+      "tournament": "Australian Open",
+      "winner": "Martina Navratilova",
+      "runner-up": "Kathy Jordan"
+   },
+   {
+      "year": 1983,
+      "tournament": "U.S. Open",
+      "winner": "Martina Navratilova",
+      "runner-up": "Chris Evert-Lloyd"
+   },
+   {
+      "year": 1983,
+      "tournament": "Wimbledon",
+      "winner": "Martina Navratilova",
+      "runner-up": "Andrea Jaeger"
+   },
+   {
+      "year": 1983,
+      "tournament": "French Open",
+      "winner": "Chris Evert-Lloyd",
+      "runner-up": "Mima Jausovec"
+   },
+   {
+      "year": 1982,
+      "tournament": "Australian Open",
+      "winner": "Chris Evert-Lloyd",
+      "runner-up": "Martina Navratilova"
+   },
+   {
+      "year": 1982,
+      "tournament": "U.S. Open",
+      "winner": "Chris Evert-Lloyd",
+      "runner-up": "Hana Mandlikova"
+   },
+   {
+      "year": 1982,
+      "tournament": "Wimbledon",
+      "winner": "Martina Navratilova",
+      "runner-up": "Chris Evert-Lloyd"
+   },
+   {
+      "year": 1982,
+      "tournament": "French Open",
+      "winner": "Martina Navratilova",
+      "runner-up": "Andrea Jaeger"
+   },
+   {
+      "year": 1981,
+      "tournament": "Australian Open",
+      "winner": "Martina Navratilova",
+      "runner-up": "Chris Evert"
+   },
+   {
+      "year": 1981,
+      "tournament": "U.S. Open",
+      "winner": "Tracy Austin",
+      "runner-up": "Martina Navratilova"
+   },
+   {
+      "year": 1981,
+      "tournament": "Wimbledon",
+      "winner": "Chris Evert-Lloyd",
+      "runner-up": "Hana Mandlikova"
+   },
+   {
+      "year": 1981,
+      "tournament": "French Open",
+      "winner": "Hana Mandlikova",
+      "runner-up": "Sylvia Hanika"
+   },
+   {
+      "year": 1980,
+      "tournament": "Australian Open",
+      "winner": "Hana Mandlikova",
+      "runner-up": "Wendy Turnbull"
+   },
+   {
+      "year": 1980,
+      "tournament": "U.S. Open",
+      "winner": "Chris Evert-Lloyd",
+      "runner-up": "Hana Mandlikova"
+   },
+   {
+      "year": 1980,
+      "tournament": "Wimbledon",
+      "winner": "R.A. Cawley",
+      "runner-up": "Chris Evert-Lloyd"
+   },
+   {
+      "year": 1980,
+      "tournament": "French Open",
+      "winner": "Chris Evert-Lloyd",
+      "runner-up": "Sylvia Hanika"
+   },
+   {
+      "year": 1979,
+      "tournament": "Australian Open",
+      "winner": "Barbara Jordan",
+      "runner-up": "Sharon Walsh"
+   },
+   {
+      "year": 1979,
+      "tournament": "U.S. Open",
+      "winner": "Tracy Austin",
+      "runner-up": "Chris Evert-Lloyd"
+   },
+   {
+      "year": 1979,
+      "tournament": "Wimbledon",
+      "winner": "Martina Navratilova",
+      "runner-up": "Chris Evert-Lloyd"
+   },
+   {
+      "year": 1979,
+      "tournament": "French Open",
+      "winner": "Chris Evert-Lloyd",
+      "runner-up": "Wendy Turnbull"
+   },
+   {
+      "year": 1978,
+      "tournament": "Australian Open",
+      "winner": "Chris O'Neil",
+      "runner-up": "Betsy Nagelsen"
+   },
+   {
+      "year": 1978,
+      "tournament": "U.S. Open",
+      "winner": "Chris Evert",
+      "runner-up": "Pam Shriver"
+   },
+   {
+      "year": 1978,
+      "tournament": "Wimbledon",
+      "winner": "Martina Navratilova",
+      "runner-up": "Chris Evert"
+   },
+   {
+      "year": 1978,
+      "tournament": "French Open",
+      "winner": "Virginia Ruzici",
+      "runner-up": "Mima Jausovec"
+   },
+   {
+      "year": 1977,
+      "tournament": "Australian Open (Dec)",
+      "winner": "Evonne Goolagong-Cawley",
+      "runner-up": "Helen Gourlay"
+   },
+   {
+      "year": 1977,
+      "tournament": "U.S. Open",
+      "winner": "Chris Evert",
+      "runner-up": "Wendy Turnbull"
+   },
+   {
+      "year": 1977,
+      "tournament": "Wimbledon",
+      "winner": "Virginia Wade",
+      "runner-up": "Betty Stove"
+   },
+   {
+      "year": 1977,
+      "tournament": "French Open",
+      "winner": "Mima Jausovec",
+      "runner-up": "Florenta Mihai"
+   },
+   {
+      "year": 1977,
+      "tournament": "Australian Open (Jan)",
+      "winner": "Kerry Reid",
+      "runner-up": "Dianne Fromholtz"
+   },
+   {
+      "year": 1976,
+      "tournament": "U.S. Open",
+      "winner": "Chris Evert",
+      "runner-up": "Evonne Goolagong-Cawley"
+   },
+   {
+      "year": 1976,
+      "tournament": "Wimbledon",
+      "winner": "Chris Evert",
+      "runner-up": "Evonne Goolagong-Cawley"
+   },
+   {
+      "year": 1976,
+      "tournament": "French Open",
+      "winner": "Sue Barker",
+      "runner-up": "Renata Tomanova"
+   },
+   {
+      "year": 1976,
+      "tournament": "Australian Open",
+      "winner": "Evonne Goolagong-Cawley",
+      "runner-up": "Renata Tomanova"
+   },
+   {
+      "year": 1975,
+      "tournament": "U.S. Open",
+      "winner": "Chris Evert",
+      "runner-up": "Evonne Goolagong-Cawley"
+   },
+   {
+      "year": 1975,
+      "tournament": "Wimbledon",
+      "winner": "Billie Jean King",
+      "runner-up": "Evonne Goolagong-Cawley"
+   },
+   {
+      "year": 1975,
+      "tournament": "French Open",
+      "winner": "Chris Evert",
+      "runner-up": "Martina Navratilova"
+   },
+   {
+      "year": 1975,
+      "tournament": "Australian Open",
+      "winner": "Evonne Goolagong",
+      "runner-up": "Martina Navratilova"
+   },
+   {
+      "year": 1974,
+      "tournament": "U.S. Open",
+      "winner": "Billie Jean King",
+      "runner-up": "Evonne Goolagong"
+   },
+   {
+      "year": 1974,
+      "tournament": "Wimbledon",
+      "winner": "Chris Evert",
+      "runner-up": "Olga Morozova"
+   },
+   {
+      "year": 1974,
+      "tournament": "French Open",
+      "winner": "Chris Evert",
+      "runner-up": "Olga Morozova"
+   },
+   {
+      "year": 1974,
+      "tournament": "Australian Open",
+      "winner": "Evonne Goolagong",
+      "runner-up": "Chris Evert"
+   },
+   {
+      "year": 1973,
+      "tournament": "U.S. Open",
+      "winner": "Margaret Smith-Court",
+      "runner-up": "Evonne Goolagong"
+   },
+   {
+      "year": 1973,
+      "tournament": "Wimbledon",
+      "winner": "Billie Jean King",
+      "runner-up": "Chris Evert"
+   },
+   {
+      "year": 1973,
+      "tournament": "French Open",
+      "winner": "Margaret Smith-Court",
+      "runner-up": "Chris Evert"
+   },
+   {
+      "year": 1973,
+      "tournament": "Australian Open",
+      "winner": "Margaret Smith-Court",
+      "runner-up": "Evonne Goolagong"
+   },
+   {
+      "year": 1972,
+      "tournament": "U.S. Open",
+      "winner": "Billie Jean King",
+      "runner-up": "Kerry Melville"
+   },
+   {
+      "year": 1972,
+      "tournament": "Wimbledon",
+      "winner": "Billie Jean King",
+      "runner-up": "Evonne Goolagong"
+   },
+   {
+      "year": 1972,
+      "tournament": "French Open",
+      "winner": "Billie Jean King",
+      "runner-up": "Evonne Goolagong"
+   },
+   {
+      "year": 1972,
+      "tournament": "Australian Open",
+      "winner": "Virginia Wade",
+      "runner-up": "Evonne Goolagong"
+   },
+   {
+      "year": 1971,
+      "tournament": "U.S. Open",
+      "winner": "Billie Jean King",
+      "runner-up": "Rosemary Casals"
+   },
+   {
+      "year": 1971,
+      "tournament": "Wimbledon",
+      "winner": "Evonne Goolagong",
+      "runner-up": "Margaret Court"
+   },
+   {
+      "year": 1971,
+      "tournament": "French Open",
+      "winner": "Evonne Goolagong",
+      "runner-up": "Helen Gourlay"
+   },
+   {
+      "year": 1971,
+      "tournament": "Australian Open",
+      "winner": "Margaret Smith-Court",
+      "runner-up": "Evonne Goolagong"
+   },
+   {
+      "year": 1970,
+      "tournament": "U.S. Open",
+      "winner": "Margaret Smith-Court",
+      "runner-up": "Rosemary Casals"
+   },
+   {
+      "year": 1970,
+      "tournament": "Wimbledon",
+      "winner": "Margaret Smith-Court",
+      "runner-up": "Billie Jean King"
+   },
+   {
+      "year": 1970,
+      "tournament": "French Open",
+      "winner": "Margaret Smith-Court",
+      "runner-up": "Helga Niessen"
+   },
+   {
+      "year": 1970,
+      "tournament": "Australian Open",
+      "winner": "Margaret Smith-Court",
+      "runner-up": "Kerry Melville"
+   },
+   {
+      "year": 1969,
+      "tournament": "U.S. Open",
+      "winner": "Margaret Smith-Court",
+      "runner-up": "Nancy Richey"
+   },
+   {
+      "year": 1969,
+      "tournament": "Wimbledon",
+      "winner": "Ann Haydon Jones",
+      "runner-up": "Billie Jean King"
+   },
+   {
+      "year": 1969,
+      "tournament": "French Open",
+      "winner": "Margaret Smith-Court",
+      "runner-up": "Ann Jones"
+   },
+   {
+      "year": 1969,
+      "tournament": "Australian Open",
+      "winner": "Margaret Smith-Court",
+      "runner-up": "Billie Jean King"
+   },
+   {
+      "year": 1968,
+      "tournament": "U.S. Open",
+      "winner": "Virginia Wade",
+      "runner-up": "Billie Jean King"
+   },
+   {
+      "year": 1968,
+      "tournament": "Wimbledon",
+      "winner": "Billie Jean King",
+      "runner-up": "Judy Tegart"
+   },
+   {
+      "year": 1968,
+      "tournament": "French Open",
+      "winner": "Nancy Richey",
+      "runner-up": "Ann Jones"
+   },
+   {
+      "year": 1968,
+      "tournament": "Australian Open",
+      "winner": "Billie Jean King",
+      "runner-up": "Margaret Smith-Court"
+   },
+   {
+      "year": 1967,
+      "tournament": "U.S. Open",
+      "winner": "Billie Jean King",
+      "runner-up": "Ann Haydon Jones"
+   },
+   {
+      "year": 1967,
+      "tournament": "Wimbledon",
+      "winner": "Billie Jean King",
+      "runner-up": "Ann Jones"
+   },
+   {
+      "year": 1967,
+      "tournament": "French Open",
+      "winner": "Francoise Durr",
+      "runner-up": "Lesley Turner"
+   },
+   {
+      "year": 1967,
+      "tournament": "Australian Open",
+      "winner": "Nancy Richey",
+      "runner-up": "Lesley Turner"
+   },
+   {
+      "year": 1966,
+      "tournament": "U.S. Open",
+      "winner": "Maria Bueno",
+      "runner-up": "Nancy Richey"
+   },
+   {
+      "year": 1966,
+      "tournament": "Wimbledon",
+      "winner": "Billie Jean King",
+      "runner-up": "Maria Bueno"
+   },
+   {
+      "year": 1966,
+      "tournament": "French Open",
+      "winner": "Ann Haydon Jones",
+      "runner-up": "Nancy Richey"
+   },
+   {
+      "year": 1966,
+      "tournament": "Australian Open",
+      "winner": "Margaret Smith",
+      "runner-up": "Nancy Richey"
+   },
+   {
+      "year": 1965,
+      "tournament": "U.S. Open",
+      "winner": "Margaret Smith",
+      "runner-up": "Billie Jean Moffitt"
+   },
+   {
+      "year": 1965,
+      "tournament": "Wimbledon",
+      "winner": "Margaret Smith",
+      "runner-up": "Maria Bueno"
+   },
+   {
+      "year": 1965,
+      "tournament": "French Open",
+      "winner": "Lesley Turner",
+      "runner-up": "Margaret Smith"
+   },
+   {
+      "year": 1965,
+      "tournament": "Australian Open",
+      "winner": "Margaret Smith",
+      "runner-up": "Maria Bueno"
+   },
+   {
+      "year": 1964,
+      "tournament": "U.S. Open",
+      "winner": "Maria Bueno",
+      "runner-up": "Carole Caldwell Graebner"
+   },
+   {
+      "year": 1964,
+      "tournament": "Wimbledon",
+      "winner": "Maria Bueno",
+      "runner-up": "Margaret Smith"
+   },
+   {
+      "year": 1964,
+      "tournament": "French Open",
+      "winner": "Margaret Smith",
+      "runner-up": "Maria Bueno"
+   },
+   {
+      "year": 1964,
+      "tournament": "Australian Open",
+      "winner": "Margaret Smith",
+      "runner-up": "Lesley Turner"
+   },
+   {
+      "year": 1963,
+      "tournament": "U.S. Open",
+      "winner": "Maria Bueno",
+      "runner-up": "Margaret Smith"
+   },
+   {
+      "year": 1963,
+      "tournament": "Wimbledon",
+      "winner": "Margaret Smith",
+      "runner-up": "Billie Jean Moffitt"
+   },
+   {
+      "year": 1963,
+      "tournament": "French Open",
+      "winner": "Lesley Turner",
+      "runner-up": "Ann Jones"
+   },
+   {
+      "year": 1963,
+      "tournament": "Australian Open",
+      "winner": "Margaret Smith",
+      "runner-up": "Jan Lehane"
+   },
+   {
+      "year": 1962,
+      "tournament": "U.S. Open",
+      "winner": "Margaret Smith",
+      "runner-up": "Darlene R. Hard"
+   },
+   {
+      "year": 1962,
+      "tournament": "Wimbledon",
+      "winner": "Karen Susman",
+      "runner-up": "Vera Sukova"
+   },
+   {
+      "year": 1962,
+      "tournament": "French Open",
+      "winner": "Margaret Smith",
+      "runner-up": "Lesley Turner"
+   },
+   {
+      "year": 1962,
+      "tournament": "Australian Open",
+      "winner": "Margaret Smith",
+      "runner-up": "Jan Lehane"
+   },
+   {
+      "year": 1961,
+      "tournament": "U.S. Open",
+      "winner": "Darlene R. Hard",
+      "runner-up": "Ann Haydon"
+   },
+   {
+      "year": 1961,
+      "tournament": "Wimbledon",
+      "winner": "Angela Mortimer",
+      "runner-up": "Christine Truman"
+   },
+   {
+      "year": 1961,
+      "tournament": "French Open",
+      "winner": "Ann Haydon",
+      "runner-up": "Yola Ramirez"
+   },
+   {
+      "year": 1961,
+      "tournament": "Australian Open",
+      "winner": "Margaret Smith",
+      "runner-up": "Jan Lehane"
+   },
+   {
+      "year": 1960,
+      "tournament": "U.S. Open",
+      "winner": "Darlene R. Hard",
+      "runner-up": "Maria Bueno"
+   },
+   {
+      "year": 1960,
+      "tournament": "Wimbledon",
+      "winner": "Maria Bueno",
+      "runner-up": "Sandra Reynolds"
+   },
+   {
+      "year": 1960,
+      "tournament": "French Open",
+      "winner": "Darlene R. Hard",
+      "runner-up": "Yola Ramirez"
+   },
+   {
+      "year": 1960,
+      "tournament": "Australian Open",
+      "winner": "Margaret Smith",
+      "runner-up": "Jan Lehane"
+   },
+   {
+      "year": 1959,
+      "tournament": "U.S. Open",
+      "winner": "Maria Bueno",
+      "runner-up": "Christine Truman"
+   },
+   {
+      "year": 1959,
+      "tournament": "Wimbledon",
+      "winner": "Maria Bueno",
+      "runner-up": "Darlene Hard"
+   },
+   {
+      "year": 1959,
+      "tournament": "French Open",
+      "winner": "Christine Truman",
+      "runner-up": "Zsuzsi Kormoczy"
+   },
+   {
+      "year": 1959,
+      "tournament": "Australian Open",
+      "winner": "Mary Carter Reitano",
+      "runner-up": "Renee Schuurman"
+   },
+   {
+      "year": 1958,
+      "tournament": "U.S. Open",
+      "winner": "Althea Gibson",
+      "runner-up": "Darlene R. Hard"
+   },
+   {
+      "year": 1958,
+      "tournament": "Wimbledon",
+      "winner": "Althea Gibson",
+      "runner-up": "Angela Mortimer"
+   },
+   {
+      "year": 1958,
+      "tournament": "French Open",
+      "winner": "Zsuzsi Kormoczy",
+      "runner-up": "Shirley Bloomer"
+   },
+   {
+      "year": 1958,
+      "tournament": "Australian Open",
+      "winner": "Angela Mortimer",
+      "runner-up": "Lorraine Coghlan"
+   },
+   {
+      "year": 1957,
+      "tournament": "U.S. Open",
+      "winner": "Althea Gibson",
+      "runner-up": "A. Louise Brough"
+   },
+   {
+      "year": 1957,
+      "tournament": "Wimbledon",
+      "winner": "Althea Gibson",
+      "runner-up": "Darlene Hard"
+   },
+   {
+      "year": 1957,
+      "tournament": "French Open",
+      "winner": "Shirley Bloomer",
+      "runner-up": "Dorothy Head Knode"
+   },
+   {
+      "year": 1957,
+      "tournament": "Australian Open",
+      "winner": "Shirley Fry",
+      "runner-up": "Althea Gibson"
+   },
+   {
+      "year": 1956,
+      "tournament": "U.S. Open",
+      "winner": "Shirley Fry",
+      "runner-up": "Althea Gibson"
+   },
+   {
+      "year": 1956,
+      "tournament": "Wimbledon",
+      "winner": "Shirley Fry",
+      "runner-up": "Angela Buxton"
+   },
+   {
+      "year": 1956,
+      "tournament": "French Open",
+      "winner": "Althea Gibson",
+      "runner-up": "Angela Mortimer"
+   },
+   {
+      "year": 1956,
+      "tournament": "Australian Open",
+      "winner": "Mary Carter",
+      "runner-up": "Thelma Long"
+   },
+   {
+      "year": 1955,
+      "tournament": "U.S. Open",
+      "winner": "Doris Hart",
+      "runner-up": "Patricia Ward"
+   },
+   {
+      "year": 1955,
+      "tournament": "Wimbledon",
+      "winner": "Louise Brough",
+      "runner-up": "Beverly Fleitz"
+   },
+   {
+      "year": 1955,
+      "tournament": "French Open",
+      "winner": "Angela Mortimer",
+      "runner-up": "Dorothy Head Knode"
+   },
+   {
+      "year": 1955,
+      "tournament": "Australian Open",
+      "winner": "Beryl Penrose",
+      "runner-up": "Thelma Long"
+   },
+   {
+      "year": 1954,
+      "tournament": "U.S. Open",
+      "winner": "Doris Hart",
+      "runner-up": "A. Louise Brough"
+   },
+   {
+      "year": 1954,
+      "tournament": "Wimbledon",
+      "winner": "Maureen Connolly",
+      "runner-up": "Louise Brough"
+   },
+   {
+      "year": 1954,
+      "tournament": "French Open",
+      "winner": "Maureen Connolly",
+      "runner-up": "Ginette Bucaille"
+   },
+   {
+      "year": 1954,
+      "tournament": "Australian Open",
+      "winner": "Thelma Long",
+      "runner-up": "Jennifer Staley"
+   },
+   {
+      "year": 1953,
+      "tournament": "U.S. Open",
+      "winner": "Maureen Connolly",
+      "runner-up": "Doris Hart"
+   },
+   {
+      "year": 1953,
+      "tournament": "Wimbledon",
+      "winner": "Maureen Connolly",
+      "runner-up": "Doris Hart"
+   },
+   {
+      "year": 1953,
+      "tournament": "French Open",
+      "winner": "Maureen Connolly",
+      "runner-up": "Doris Hart"
+   },
+   {
+      "year": 1953,
+      "tournament": "Australian Open",
+      "winner": "Maureen Connolly",
+      "runner-up": "Julia Sampson"
+   },
+   {
+      "year": 1952,
+      "tournament": "U.S. Open",
+      "winner": "Maureen Connolly",
+      "runner-up": "Doris Hart"
+   },
+   {
+      "year": 1952,
+      "tournament": "Wimbledon",
+      "winner": "Maureen Connolly",
+      "runner-up": "Louise Brough"
+   },
+   {
+      "year": 1952,
+      "tournament": "French Open",
+      "winner": "Doris Hart",
+      "runner-up": "Shirley Fry"
+   },
+   {
+      "year": 1952,
+      "tournament": "Australian Open",
+      "winner": "Thelma Long",
+      "runner-up": "H. Angwin"
+   },
+   {
+      "year": 1951,
+      "tournament": "U.S. Open",
+      "winner": "Maureen Connolly",
+      "runner-up": "Shirley Fry"
+   },
+   {
+      "year": 1951,
+      "tournament": "Wimbledon",
+      "winner": "Doris Hart",
+      "runner-up": "Shirley Fry"
+   },
+   {
+      "year": 1951,
+      "tournament": "French Open",
+      "winner": "Shirley Fry",
+      "runner-up": "Doris Hart"
+   },
+   {
+      "year": 1951,
+      "tournament": "Australian Open",
+      "winner": "Nancye Wynne Bolton",
+      "runner-up": "Thelma Long-Coyne"
+   },
+   {
+      "year": 1950,
+      "tournament": "U.S. Open",
+      "winner": "Margaret Osborne duPont",
+      "runner-up": "Doris Hart"
+   },
+   {
+      "year": 1950,
+      "tournament": "Wimbledon",
+      "winner": "Louise Brough",
+      "runner-up": "Margaret Osborne duPont"
+   },
+   {
+      "year": 1950,
+      "tournament": "French Open",
+      "winner": "Doris Hart",
+      "runner-up": "Patricia Todd"
+   },
+   {
+      "year": 1950,
+      "tournament": "Australian Open",
+      "winner": "A. Louise Brough",
+      "runner-up": "Doris Hart"
+   },
+   {
+      "year": 1949,
+      "tournament": "U.S. Open",
+      "winner": "Margaret Osborne duPont",
+      "runner-up": "Doris Hart"
+   },
+   {
+      "year": 1949,
+      "tournament": "Wimbledon",
+      "winner": "Louise Brough",
+      "runner-up": "Margaret Osborne duPont"
+   },
+   {
+      "year": 1949,
+      "tournament": "French Open",
+      "winner": "Margaret Osborne duPont",
+      "runner-up": "Nelly Adamson"
+   },
+   {
+      "year": 1949,
+      "tournament": "Australian Open",
+      "winner": "Doris Hart",
+      "runner-up": "Nancye Bolton"
+   },
+   {
+      "year": 1948,
+      "tournament": "U.S. Open",
+      "winner": "Margaret Osborne duPont",
+      "runner-up": "A. Louise Brough"
+   },
+   {
+      "year": 1948,
+      "tournament": "Wimbledon",
+      "winner": "Louise Brough",
+      "runner-up": "Doris Hart"
+   },
+   {
+      "year": 1948,
+      "tournament": "French Open",
+      "winner": "Nelly Landry",
+      "runner-up": "Shirley Fry"
+   },
+   {
+      "year": 1948,
+      "tournament": "Australian Open",
+      "winner": "Nancye Wynne Bolton",
+      "runner-up": "Marie Toomey"
+   },
+   {
+      "year": 1947,
+      "tournament": "U.S. Open",
+      "winner": "A. Louise Brough",
+      "runner-up": "Margaret Osborne"
+   },
+   {
+      "year": 1947,
+      "tournament": "Wimbledon",
+      "winner": "Margaret Osborne duPont",
+      "runner-up": "Doris Hart"
+   },
+   {
+      "year": 1947,
+      "tournament": "French Open",
+      "winner": "Patricia Todd",
+      "runner-up": "Doris Hart"
+   },
+   {
+      "year": 1947,
+      "tournament": "Australian Open",
+      "winner": "Nancye Wynne Bolton",
+      "runner-up": "Nell Hopman"
+   },
+   {
+      "year": 1946,
+      "tournament": "U.S. Open",
+      "winner": "Pauline Betz",
+      "runner-up": "Patricia Canning"
+   },
+   {
+      "year": 1946,
+      "tournament": "Wimbledon",
+      "winner": "Pauline Betz",
+      "runner-up": "Louise Brough"
+   },
+   {
+      "year": 1946,
+      "tournament": "French Open",
+      "winner": "Margaret Osborne duPont",
+      "runner-up": "Pauline Betz"
+   },
+   {
+      "year": 1946,
+      "tournament": "Australian Open",
+      "winner": "Nancye Wynne Bolton",
+      "runner-up": "Joyce Fitch"
+   },
+   {
+      "year": 1945,
+      "tournament": "U.S. Open",
+      "winner": "Sarah Palfrey Cooke",
+      "runner-up": "Pauline Betz"
+   },
+   {
+      "year": 1944,
+      "tournament": "U.S. Open",
+      "winner": "Pauline Betz",
+      "runner-up": "Margaret Osborne"
+   },
+   {
+      "year": 1943,
+      "tournament": "U.S. Open",
+      "winner": "Pauline Betz",
+      "runner-up": "A. Louise Brough"
+   },
+   {
+      "year": 1942,
+      "tournament": "U.S. Open",
+      "winner": "Pauline Betz",
+      "runner-up": "A. Louise Brough"
+   },
+   {
+      "year": 1941,
+      "tournament": "U.S. Open",
+      "winner": "Sarah Palfrey Cooke",
+      "runner-up": "Pauline Betz"
+   },
+   {
+      "year": 1940,
+      "tournament": "U.S. Open",
+      "winner": "Alice Marble",
+      "runner-up": "Helen Jacobs"
+   },
+   {
+      "year": 1940,
+      "tournament": "Australian Open",
+      "winner": "Nancye Wynne Bolton",
+      "runner-up": "Thelma Coyne"
+   },
+   {
+      "year": 1939,
+      "tournament": "U.S. Open",
+      "winner": "Alice Marble",
+      "runner-up": "Helen Jacobs"
+   },
+   {
+      "year": 1939,
+      "tournament": "Wimbledon",
+      "winner": "Alice Marble",
+      "runner-up": "Kay Stammers"
+   },
+   {
+      "year": 1939,
+      "tournament": "French Open",
+      "winner": "Simone Mathieu",
+      "runner-up": "Jadwiga Jedrzejowska"
+   },
+   {
+      "year": 1939,
+      "tournament": "Australian Open",
+      "winner": "Emily Westacott",
+      "runner-up": "Nell Hopman"
+   },
+   {
+      "year": 1938,
+      "tournament": "U.S. Open",
+      "winner": "Alice Marble",
+      "runner-up": "Nancye Wynne"
+   },
+   {
+      "year": 1938,
+      "tournament": "Wimbledon",
+      "winner": "Helen Wills Moody",
+      "runner-up": "Helen Jacobs"
+   },
+   {
+      "year": 1938,
+      "tournament": "French Open",
+      "winner": "Simone Mathieu",
+      "runner-up": "Nelly Adamson"
+   },
+   {
+      "year": 1938,
+      "tournament": "Australian Open",
+      "winner": "Dorothy Bundy",
+      "runner-up": "Dorothy Stevenson"
+   },
+   {
+      "year": 1937,
+      "tournament": "U.S. Open",
+      "winner": "Anita Lizana",
+      "runner-up": "Jadwiga Jedrzejowska"
+   },
+   {
+      "year": 1937,
+      "tournament": "Wimbledon",
+      "winner": "Dorothy Round",
+      "runner-up": "Jadwiga Jedrzejowska"
+   },
+   {
+      "year": 1937,
+      "tournament": "French Open",
+      "winner": "Hilde Sperling",
+      "runner-up": "Simone Mathieu"
+   },
+   {
+      "year": 1937,
+      "tournament": "Australian Open",
+      "winner": "Nancye Wynne",
+      "runner-up": "Emily Westacott"
+   },
+   {
+      "year": 1936,
+      "tournament": "U.S. Open",
+      "winner": "Alice Marble",
+      "runner-up": "Helen Jacobs"
+   },
+   {
+      "year": 1936,
+      "tournament": "Wimbledon",
+      "winner": "Helen Jacobs",
+      "runner-up": "Hilde Kranwinkel Sperling"
+   },
+   {
+      "year": 1936,
+      "tournament": "French Open",
+      "winner": "Hilde Sperling",
+      "runner-up": "Simone Mathieu"
+   },
+   {
+      "year": 1936,
+      "tournament": "Australian Open",
+      "winner": "Joan Hartigan",
+      "runner-up": "Nancye Wynne"
+   },
+   {
+      "year": 1935,
+      "tournament": "U.S. Open",
+      "winner": "Helen Jacobs",
+      "runner-up": "Sarah H. Palfrey"
+   },
+   {
+      "year": 1935,
+      "tournament": "Wimbledon",
+      "winner": "Helen Wills Moody",
+      "runner-up": "Helen Jacobs"
+   },
+   {
+      "year": 1935,
+      "tournament": "French Open",
+      "winner": "Hilde Sperling",
+      "runner-up": "Simone Mathieu"
+   },
+   {
+      "year": 1935,
+      "tournament": "Australian Open",
+      "winner": "Dorothy Round",
+      "runner-up": "Nancy Lyle"
+   },
+   {
+      "year": 1934,
+      "tournament": "U.S. Open",
+      "winner": "Helen Jacobs",
+      "runner-up": "Sarah H. Palfrey"
+   },
+   {
+      "year": 1934,
+      "tournament": "Wimbledon",
+      "winner": "Dorothy Round",
+      "runner-up": "Helen Jacobs"
+   },
+   {
+      "year": 1934,
+      "tournament": "French Open",
+      "winner": "Margaret Scriven",
+      "runner-up": "Helen Jacobs"
+   },
+   {
+      "year": 1934,
+      "tournament": "Australian Open",
+      "winner": "Joan Hartigan",
+      "runner-up": "Margaret Molesworth"
+   },
+   {
+      "year": 1933,
+      "tournament": "U.S. Open",
+      "winner": "Helen Jacobs",
+      "runner-up": "Helen Wills Moody"
+   },
+   {
+      "year": 1933,
+      "tournament": "Wimbledon",
+      "winner": "Helen Wills Moody",
+      "runner-up": "Dorothy Round"
+   },
+   {
+      "year": 1933,
+      "tournament": "French Open",
+      "winner": "Margaret Scriven",
+      "runner-up": "Simone Mathieu"
+   },
+   {
+      "year": 1933,
+      "tournament": "Australian Open",
+      "winner": "Joan Hartigan",
+      "runner-up": "Coral Buttsworth"
+   },
+   {
+      "year": 1932,
+      "tournament": "U.S. Open",
+      "winner": "Helen Jacobs",
+      "runner-up": "Carolin A. Babcock"
+   },
+   {
+      "year": 1932,
+      "tournament": "Wimbledon",
+      "winner": "Helen Wills Moody",
+      "runner-up": "Helen Jacobs"
+   },
+   {
+      "year": 1932,
+      "tournament": "French Open",
+      "winner": "Helen Wills Moody",
+      "runner-up": "Simone Mathieu"
+   },
+   {
+      "year": 1932,
+      "tournament": "Australian Open",
+      "winner": "Coral Buttsworth",
+      "runner-up": "Katherine Le Messurier"
+   },
+   {
+      "year": 1931,
+      "tournament": "U.S. Open",
+      "winner": "Helen Wills Moody",
+      "runner-up": "Eileen Bennett Whitingstall"
+   },
+   {
+      "year": 1931,
+      "tournament": "Wimbledon",
+      "winner": "Cilly Aussem",
+      "runner-up": "Hilde Kranwinkel"
+   },
+   {
+      "year": 1931,
+      "tournament": "French Open",
+      "winner": "Cilly Aussem",
+      "runner-up": "Betty Nuthall"
+   },
+   {
+      "year": 1931,
+      "tournament": "Australian Open",
+      "winner": "Coral Buttsworth",
+      "runner-up": "Margorie Crawford"
+   },
+   {
+      "year": 1930,
+      "tournament": "U.S. Open",
+      "winner": "Betty Nuthall",
+      "runner-up": "Anna McCune Harper"
+   },
+   {
+      "year": 1930,
+      "tournament": "Wimbledon",
+      "winner": "Helen Wills Moody",
+      "runner-up": "Elizabeth Ryan"
+   },
+   {
+      "year": 1930,
+      "tournament": "French Open",
+      "winner": "Helen Wills Moody",
+      "runner-up": "Helen Jacobs"
+   },
+   {
+      "year": 1930,
+      "tournament": "Australian Open",
+      "winner": "Daphne Akhurst",
+      "runner-up": "Sylvia Harper"
+   },
+   {
+      "year": 1929,
+      "tournament": "U.S. Open",
+      "winner": "Helen Wills",
+      "runner-up": "Phoebe Holcroft Watson"
+   },
+   {
+      "year": 1929,
+      "tournament": "Wimbledon",
+      "winner": "Helen Wills",
+      "runner-up": "Helen Jacobs"
+   },
+   {
+      "year": 1929,
+      "tournament": "French Open",
+      "winner": "Helen Wills",
+      "runner-up": "Simone Mathieu"
+   },
+   {
+      "year": 1929,
+      "tournament": "Australian Open",
+      "winner": "Daphne Akhurst",
+      "runner-up": "Louise Bickerton"
+   },
+   {
+      "year": 1928,
+      "tournament": "U.S. Open",
+      "winner": "Helen Wills",
+      "runner-up": "Helen J. Jacobs"
+   },
+   {
+      "year": 1928,
+      "tournament": "Wimbledon",
+      "winner": "Helen Wills",
+      "runner-up": "Lili de Alvarez"
+   },
+   {
+      "year": 1928,
+      "tournament": "French Open",
+      "winner": "Helen Wills",
+      "runner-up": "E. Bennett"
+   },
+   {
+      "year": 1928,
+      "tournament": "Australian Open",
+      "winner": "Daphne Akhurst",
+      "runner-up": "Esna Boyd"
+   },
+   {
+      "year": 1927,
+      "tournament": "U.S. Open",
+      "winner": "Helen Wills",
+      "runner-up": "Betty Nuthall"
+   },
+   {
+      "year": 1927,
+      "tournament": "Wimbledon",
+      "winner": "Helen Wills",
+      "runner-up": "Lili de Alvarez"
+   },
+   {
+      "year": 1927,
+      "tournament": "French Open",
+      "winner": "Kornelia Bouman",
+      "runner-up": "Irene Peacock"
+   },
+   {
+      "year": 1927,
+      "tournament": "Australian Open",
+      "winner": "Esna Boyd",
+      "runner-up": "Sylvia Harper"
+   },
+   {
+      "year": 1926,
+      "tournament": "U.S. Open",
+      "winner": "Molla B. Mallory",
+      "runner-up": "Elizabeth Ryan"
+   },
+   {
+      "year": 1926,
+      "tournament": "Wimbledon",
+      "winner": "Kathleen Godfree",
+      "runner-up": "Lili de Alvarez"
+   },
+   {
+      "year": 1926,
+      "tournament": "French Open",
+      "winner": "Suzanne Lenglen",
+      "runner-up": "Mary Browne"
+   },
+   {
+      "year": 1926,
+      "tournament": "Australian Open",
+      "winner": "Daphne Akhurst",
+      "runner-up": "Esna Boyd"
+   },
+   {
+      "year": 1925,
+      "tournament": "U.S. Open",
+      "winner": "Helen Wills",
+      "runner-up": "Kathleen McKane"
+   },
+   {
+      "year": 1925,
+      "tournament": "Wimbledon",
+      "winner": "Suzanne Lenglen",
+      "runner-up": "Joan Fry"
+   },
+   {
+      "year": 1925,
+      "tournament": "French Open",
+      "winner": "Suzanne Lenglen",
+      "runner-up": "Kathleen McKane"
+   },
+   {
+      "year": 1925,
+      "tournament": "Australian Open",
+      "winner": "Daphne Akhurst",
+      "runner-up": "Esna Boyd"
+   },
+   {
+      "year": 1924,
+      "tournament": "U.S. Open",
+      "winner": "Helen Wills",
+      "runner-up": "Molla B. Mallory"
+   },
+   {
+      "year": 1924,
+      "tournament": "Wimbledon",
+      "winner": "Kathleen McKane",
+      "runner-up": "Helen Wills"
+   },
+   {
+      "year": 1924,
+      "tournament": "French Open",
+      "winner": "Diddie Vlasto",
+      "runner-up": "Jeanne Vaussard"
+   },
+   {
+      "year": 1924,
+      "tournament": "Australian Open",
+      "winner": "Sylvia Lance",
+      "runner-up": "Esna Boyd"
+   },
+   {
+      "year": 1923,
+      "tournament": "U.S. Open",
+      "winner": "Helen Wills",
+      "runner-up": "Molla B. Mallory"
+   },
+   {
+      "year": 1923,
+      "tournament": "Wimbledon",
+      "winner": "Suzanne Lenglen",
+      "runner-up": "Kathleen McKane"
+   },
+   {
+      "year": 1923,
+      "tournament": "French Open",
+      "winner": "Suzanne Lenglen",
+      "runner-up": "Germaine Golding"
+   },
+   {
+      "year": 1923,
+      "tournament": "Australian Open",
+      "winner": "Margaret Molesworth",
+      "runner-up": "Esna Boyd"
+   },
+   {
+      "year": 1922,
+      "tournament": "U.S. Open",
+      "winner": "Molla B. Mallory",
+      "runner-up": "Helen Wills"
+   },
+   {
+      "year": 1922,
+      "tournament": "Wimbledon",
+      "winner": "Suzanne Lenglen",
+      "runner-up": "Molla Mallory"
+   },
+   {
+      "year": 1922,
+      "tournament": "French Open",
+      "winner": "Suzanne Lenglen",
+      "runner-up": "Germaine Golding"
+   },
+   {
+      "year": 1922,
+      "tournament": "Australian Open",
+      "winner": "Margaret Molesworth",
+      "runner-up": "Esna Boyd"
+   },
+   {
+      "year": 1921,
+      "tournament": "U.S. Open",
+      "winner": "Molla B. Mallory",
+      "runner-up": "Mary K. Browne"
+   },
+   {
+      "year": 1921,
+      "tournament": "Wimbledon",
+      "winner": "Suzanne Lenglen",
+      "runner-up": "Elizabeth Ryan"
+   },
+   {
+      "year": 1921,
+      "tournament": "French Open",
+      "winner": "Suzanne Lenglen",
+      "runner-up": "Germaine Golding"
+   },
+   {
+      "year": 1920,
+      "tournament": "U.S. Open",
+      "winner": "Molla B. Mallory",
+      "runner-up": "Marion Zinderstein"
+   },
+   {
+      "year": 1920,
+      "tournament": "Wimbledon",
+      "winner": "Suzanne Lenglen",
+      "runner-up": "Dorothea Douglass Chambers"
+   },
+   {
+      "year": 1920,
+      "tournament": "French Open",
+      "winner": "Suzanne Lenglen",
+      "runner-up": "Marguerite Broquedis"
+   },
+   {
+      "year": 1919,
+      "tournament": "U.S. Open",
+      "winner": "Hazel Hotchkiss Wightman",
+      "runner-up": "Marion Zinderstein"
+   },
+   {
+      "year": 1919,
+      "tournament": "Wimbledon",
+      "winner": "Suzanne Lenglen",
+      "runner-up": "Dorothea Douglass Chambers"
+   },
+   {
+      "year": 1918,
+      "tournament": "U.S. Open",
+      "winner": "Molla Bjurstedt",
+      "runner-up": "Eleanor E. Goss"
+   },
+   {
+      "year": 1917,
+      "tournament": "U.S. Open",
+      "winner": "Molla Bjurstedt",
+      "runner-up": "Marion Vanderhoef"
+   },
+   {
+      "year": 1916,
+      "tournament": "U.S. Open",
+      "winner": "Molla Bjurstedt",
+      "runner-up": "Louise Hammond Raymond"
+   },
+   {
+      "year": 1915,
+      "tournament": "U.S. Open",
+      "winner": "Molla Bjurstedt",
+      "runner-up": "Hazel Hotchkiss Wightman"
+   },
+   {
+      "year": 1914,
+      "tournament": "U.S. Open",
+      "winner": "Mary Browne",
+      "runner-up": "Marie Wagner"
+   },
+   {
+      "year": 1914,
+      "tournament": "Wimbledon",
+      "winner": "Lambert Chambers",
+      "runner-up": "Ethel Larcombe"
+   },
+   {
+      "year": 1914,
+      "tournament": "French Open",
+      "winner": "Marguerite Broquedis",
+      "runner-up": "Suzanne Lenglen"
+   },
+   {
+      "year": 1913,
+      "tournament": "U.S. Open",
+      "winner": "Mary Browne",
+      "runner-up": "Dorothy Green"
+   },
+   {
+      "year": 1913,
+      "tournament": "Wimbledon",
+      "winner": "Lambert Chambers",
+      "runner-up": "R. McNair"
+   },
+   {
+      "year": 1913,
+      "tournament": "French Open",
+      "winner": "Marguerite Broquedis",
+      "runner-up": "Jeanne Matthey"
+   },
+   {
+      "year": 1912,
+      "tournament": "U.S. Open",
+      "winner": "Mary Browne",
+      "runner-up": "Eleonora Sears"
+   },
+   {
+      "year": 1912,
+      "tournament": "Wimbledon",
+      "winner": "Ethel Larcombe",
+      "runner-up": "Charlotte Cooper Sterry"
+   },
+   {
+      "year": 1912,
+      "tournament": "French Open",
+      "winner": "Jeanne Matthey",
+      "runner-up": "Marie Daney"
+   },
+   {
+      "year": 1911,
+      "tournament": "U.S. Open",
+      "winner": "Hazel Hotchkiss",
+      "runner-up": "Florence Sutton"
+   },
+   {
+      "year": 1911,
+      "tournament": "Wimbledon",
+      "winner": "Lambert Chambers",
+      "runner-up": "Dora Boothby"
+   },
+   {
+      "year": 1911,
+      "tournament": "French Open",
+      "winner": "Jeanne Matthey",
+      "runner-up": "Marguerite Broquedis"
+   },
+   {
+      "year": 1910,
+      "tournament": "U.S. Open",
+      "winner": "Hazel Hotchkiss",
+      "runner-up": "Louise Hammond"
+   },
+   {
+      "year": 1910,
+      "tournament": "Wimbledon",
+      "winner": "Lambert Chambers",
+      "runner-up": "Dora Boothby"
+   },
+   {
+      "year": 1910,
+      "tournament": "French Open",
+      "winner": "Jeanne Matthey",
+      "runner-up": "Marguerite Broquedis"
+   },
+   {
+      "year": 1909,
+      "tournament": "U.S. Open",
+      "winner": "Hazel Hotchkiss",
+      "runner-up": "Maud Barger-Wallach"
+   },
+   {
+      "year": 1909,
+      "tournament": "Wimbledon",
+      "winner": "Dora Boothby",
+      "runner-up": "A. Morton"
+   },
+   {
+      "year": 1909,
+      "tournament": "French Open",
+      "winner": "Jeanne Matthey",
+      "runner-up": "Gallay"
+   },
+   {
+      "year": 1908,
+      "tournament": "U.S. Open",
+      "winner": "Maud Barger Wallach",
+      "runner-up": "Evelyn Sears"
+   },
+   {
+      "year": 1908,
+      "tournament": "Wimbledon",
+      "winner": "Charlotte Cooper Sterry",
+      "runner-up": "A. Morton"
+   },
+   {
+      "year": 1908,
+      "tournament": "French Open",
+      "winner": "Kate Gillou Fenwick",
+      "runner-up": "A. Pean"
+   },
+   {
+      "year": 1907,
+      "tournament": "U.S. Open",
+      "winner": "Evelyn Sears",
+      "runner-up": "Carrie Neely"
+   },
+   {
+      "year": 1907,
+      "tournament": "Wimbledon",
+      "winner": "May Sutton",
+      "runner-up": "Dorothea Douglass Chambers"
+   },
+   {
+      "year": 1907,
+      "tournament": "French Open",
+      "winner": "Comtesse de Kermel",
+      "runner-up": "D. Elva"
+   },
+   {
+      "year": 1906,
+      "tournament": "U.S. Open",
+      "winner": "Helen Homans",
+      "runner-up": "Maud Barger-Wallach"
+   },
+   {
+      "year": 1906,
+      "tournament": "Wimbledon",
+      "winner": "Dorothea Douglass",
+      "runner-up": "May Sutton"
+   },
+   {
+      "year": 1906,
+      "tournament": "French Open",
+      "winner": "Kate Gillou Fenwick",
+      "runner-up": "MacVeagh"
+   },
+   {
+      "year": 1905,
+      "tournament": "U.S. Open",
+      "winner": "Elisabeth Moore",
+      "runner-up": "Helen Homans"
+   },
+   {
+      "year": 1905,
+      "tournament": "Wimbledon",
+      "winner": "May Sutton",
+      "runner-up": "Dorothea Douglass"
+   },
+   {
+      "year": 1905,
+      "tournament": "French Open",
+      "winner": "Kate Gillou",
+      "runner-up": "Y. De Pfoeffel"
+   },
+   {
+      "year": 1904,
+      "tournament": "U.S. Open",
+      "winner": "May Sutton",
+      "runner-up": "Elisabeth Moore"
+   },
+   {
+      "year": 1904,
+      "tournament": "Wimbledon",
+      "winner": "Dorothea Douglass",
+      "runner-up": "Charlotte Cooper Sterry"
+   },
+   {
+      "year": 1904,
+      "tournament": "French Open",
+      "winner": "Kate Gillou",
+      "runner-up": "Adine Masson"
+   },
+   {
+      "year": 1903,
+      "tournament": "U.S. Open",
+      "winner": "Elisabeth Moore",
+      "runner-up": "Marion Jones"
+   },
+   {
+      "year": 1903,
+      "tournament": "Wimbledon",
+      "winner": "Dorothea Douglass",
+      "runner-up": "E. Thomson"
+   },
+   {
+      "year": 1903,
+      "tournament": "French Open",
+      "winner": "F. Masson",
+      "runner-up": "Katie Gillou"
+   },
+   {
+      "year": 1902,
+      "tournament": "U.S. Open",
+      "winner": "Marion Jones",
+      "runner-up": "Elisabeth Moore"
+   },
+   {
+      "year": 1902,
+      "tournament": "Wimbledon",
+      "winner": "Muriel Robb",
+      "runner-up": "Charlotte Cooper Sterry"
+   },
+   {
+      "year": 1902,
+      "tournament": "French Open",
+      "winner": "F. Masson",
+      "runner-up": "P. Girod"
+   },
+   {
+      "year": 1901,
+      "tournament": "U.S. Open",
+      "winner": "Elisabeth Moore",
+      "runner-up": "Myrtle McAteer"
+   },
+   {
+      "year": 1901,
+      "tournament": "Wimbledon",
+      "winner": "Charlotte Cooper Sterry",
+      "runner-up": "Blanche Bingley Hillyard"
+   },
+   {
+      "year": 1901,
+      "tournament": "French Open",
+      "winner": "P. Girod",
+      "runner-up": "Leroux"
+   },
+   {
+      "year": 1900,
+      "tournament": "U.S. Open",
+      "winner": "Myrtle McAteer",
+      "runner-up": "Edith Parker"
+   },
+   {
+      "year": 1900,
+      "tournament": "Wimbledon",
+      "winner": "Blanche Bingley Hillyard",
+      "runner-up": "Charlotte Cooper"
+   },
+   {
+      "year": 1900,
+      "tournament": "French Open",
+      "winner": "Y. Prevost",
+      "runner-up": "xxx"
+   },
+   {
+      "year": 1899,
+      "tournament": "U.S. Open",
+      "winner": "Marion Jones",
+      "runner-up": "Maud Banks"
+   },
+   {
+      "year": 1899,
+      "tournament": "Wimbledon",
+      "winner": "Blanche Bingley Hillyard",
+      "runner-up": "Charlotte Cooper"
+   },
+   {
+      "year": 1899,
+      "tournament": "French Open",
+      "winner": "Francoise Masson",
+      "runner-up": "xxx"
+   },
+   {
+      "year": 1898,
+      "tournament": "U.S. Open",
+      "winner": "Juliette Atkinson",
+      "runner-up": "Marion Jones"
+   },
+   {
+      "year": 1898,
+      "tournament": "Wimbledon",
+      "winner": "Charlotte Cooper",
+      "runner-up": "L. Martin"
+   },
+   {
+      "year": 1898,
+      "tournament": "French Open",
+      "winner": "Francoise Masson",
+      "runner-up": "xxx"
+   },
+   {
+      "year": 1897,
+      "tournament": "U.S. Open",
+      "winner": "Juliette Atkinson",
+      "runner-up": "Elisabeth Moore"
+   },
+   {
+      "year": 1897,
+      "tournament": "Wimbledon",
+      "winner": "Blanche Bingley Hillyard",
+      "runner-up": "Charlotte Cooper"
+   },
+   {
+      "year": 1897,
+      "tournament": "French Open",
+      "winner": "Francoise Masson",
+      "runner-up": "P. Girod"
+   },
+   {
+      "year": 1896,
+      "tournament": "U.S. Open",
+      "winner": "Elisabeth Moore",
+      "runner-up": "Juliette Atkinson"
+   },
+   {
+      "year": 1896,
+      "tournament": "Wimbledon",
+      "winner": "Charlotte Cooper",
+      "runner-up": "W. H. Pickering"
+   },
+   {
+      "year": 1895,
+      "tournament": "U.S. Open",
+      "winner": "Juliette Atkinson",
+      "runner-up": "Helen Hellwig"
+   },
+   {
+      "year": 1895,
+      "tournament": "Wimbledon",
+      "winner": "Charlotte Cooper",
+      "runner-up": "H. Jackson"
+   },
+   {
+      "year": 1894,
+      "tournament": "U.S. Open",
+      "winner": "Helen Hellwig",
+      "runner-up": "Aline Terry"
+   },
+   {
+      "year": 1894,
+      "tournament": "Wimbledon",
+      "winner": "Blanche Bingley Hillyard",
+      "runner-up": "E. Austin"
+   },
+   {
+      "year": 1893,
+      "tournament": "U.S. Open",
+      "winner": "Aline Terry",
+      "runner-up": "Augusta Schultz"
+   },
+   {
+      "year": 1893,
+      "tournament": "Wimbledon",
+      "winner": "Lottie Dod",
+      "runner-up": "Blanche Bingley Hillyard"
+   },
+   {
+      "year": 1892,
+      "tournament": "U.S. Open",
+      "winner": "Mabel Cahill",
+      "runner-up": "Elisabeth Moore"
+   },
+   {
+      "year": 1892,
+      "tournament": "Wimbledon",
+      "winner": "Lottie Dod",
+      "runner-up": "Blanche Bingley Hillyard"
+   },
+   {
+      "year": 1891,
+      "tournament": "U.S. Open",
+      "winner": "Mabel Cahill",
+      "runner-up": "Ellen C Roosevelt"
+   },
+   {
+      "year": 1891,
+      "tournament": "Wimbledon",
+      "winner": "Lottie Dod",
+      "runner-up": "Blanche Bingley Hillyard"
+   },
+   {
+      "year": 1890,
+      "tournament": "U.S. Open",
+      "winner": "Ellen C. Roosevelt",
+      "runner-up": "Bertha L. Townsend"
+   },
+   {
+      "year": 1890,
+      "tournament": "Wimbledon",
+      "winner": "Lena Rice",
+      "runner-up": "M. Jacks"
+   },
+   {
+      "year": 1889,
+      "tournament": "U.S. Open",
+      "winner": "Bertha L. Townsend",
+      "runner-up": "Lida D. Voorhes"
+   },
+   {
+      "year": 1889,
+      "tournament": "Wimbledon",
+      "winner": "Blanche Bingley Hillyard",
+      "runner-up": "Lena Rice"
+   },
+   {
+      "year": 1888,
+      "tournament": "U.S. Open",
+      "winner": "Bertha L. Townsend",
+      "runner-up": "Ellen Hansell"
+   },
+   {
+      "year": 1888,
+      "tournament": "Wimbledon",
+      "winner": "Lottie Dod",
+      "runner-up": "Blanche Bingley Hillyard"
+   },
+   {
+      "year": 1887,
+      "tournament": "U.S. Open",
+      "winner": "Ellen Hansell",
+      "runner-up": "Laura Knight"
+   },
+   {
+      "year": 1887,
+      "tournament": "Wimbledon",
+      "winner": "Lottie Dod",
+      "runner-up": "Blanche Bingley"
+   },
+   {
+      "year": 1886,
+      "tournament": "Wimbledon",
+      "winner": "Blanche Bingley",
+      "runner-up": "Maud Watson"
+   },
+   {
+      "year": 1885,
+      "tournament": "Wimbledon",
+      "winner": "Maud Watson",
+      "runner-up": "Blanche Bingley"
+   },
+   {
+      "year": 1884,
+      "tournament": "Wimbledon",
+      "winner": "Maud Watson",
+      "runner-up": "Lillian Watson"
+   }
+]

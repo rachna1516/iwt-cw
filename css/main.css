@@ -1,0 +1,132 @@
+html {
+  color: #ba4949;
+  font-size: 1em;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+}
+
+.layout {
+  width: 1366px;
+  height: 768px;
+
+  display: grid;
+  grid:
+    "header header header" auto
+    "leftSide body rightSide" 1fr
+    ". . ." auto
+    / auto 1fr auto;
+  gap: 8px;
+}
+
+.header {
+  grid-area: header;
+  text-align: center;
+}
+.leftSide {
+  grid-area: leftSide;
+}
+.body {
+  grid-area: body;
+}
+.rightSide {
+  grid-area: rightSide;
+}
+
+.hidden {
+  display: none !important;
+}
+
+img {
+  display: block;
+  alignment: center;
+  vertical-align: center;
+}
+
+.header-img {
+  max-width: 1350px;
+  height: auto;
+  alignment: center;
+  vertical-align: center;
+
+}
+
+.side-img {
+  max-width: 250px;
+  height: auto;
+}
+
+input[type=text], select {
+  width: 20%;
+  padding: 12px 20px;
+  margin: 10px 10px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit], input[type=reset], button  {
+  width: 20%;
+  background-color: #12acb7;
+  color: white;
+  padding: 14px 20px;
+  margin: 10px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button {
+  width: 15%;
+  background-color: hsl(185, 90%, 37%);
+  color: white;
+  padding: 5px 5px;
+  margin: 5px 5px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover, input[type=reset]:hover, button:hover {
+  background-color: #45a049;
+}
+
+div {
+  border-radius: 2px;
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+form {
+  display: flow;
+  grid-template-columns: [labels] auto [controls] auto;
+  grid-auto-flow: row;
+}
+
+label
+{
+    float:left;
+    width:20%;
+}
+
+
+.error {
+  color: #FF0000;
+}
+
